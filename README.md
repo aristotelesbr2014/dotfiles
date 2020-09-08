@@ -1,5 +1,10 @@
 # Neovim Ruby
 
+
+## Demonstration
+![demonstration](https://i.imgur.com/SLyoGwS.gif)
+
+
 ## Dependencies
 - python3-neovim
 - fzf
