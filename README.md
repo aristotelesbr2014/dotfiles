@@ -1,21 +1,5 @@
 # Neovim Ruby
 
-## Alert
-I've migrated to doom emacs: https://github.com/hlissner/doom-emacs  Its like vim, but with steroids!
-
-## About
-A complete IDE for Rails development with vim.  Uses coc.nvim for auto-complete.
-
-https://github.com/neoclide/coc.nvim (Recommended to read)
-
-## Demonstration
-![demonstration](https://i.imgur.com/SLyoGwS.gif)
-
-obs: I just doing random stuff with a very old code that i found =D
-
-## Video demonstration of some commands(pt_BR):
-https://youtu.be/3MYo9z0YsLg
-
 ## Dependencies
 - python3-neovim
 - fzf
